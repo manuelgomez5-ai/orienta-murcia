@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-07-30T06:45:00+00:00",
+  "specialty": "0590018 Orientación Educativa",
+  "publications": [
+    {
+      "date": "2026-07-29",
+      "kind": "convocatoria",
+      "title": "Acto de adjudicación telemático de interinos de Secundaria para el curso 2026/2027",
+      "url": "https://www.carm.es/web/pagina?IDCONTENIDO=208288&IDTIPO=60&RASTRO=c77%24m22725%2C22759%2C4254",
+      "relevant": true
+    },
+    {
+      "date": "2026-07-29",
+      "kind": "vacantes",
+      "title": "Listado de vacantes de Secundaria de la adjudicación de julio",
+      "url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=ADJVACANTESSECUNDARIA-928392.pdf&IDCONTENIDO=208287&RASTRO=c77%24m22725%2C22759%2C4254",
+      "relevant": true
+    },
+    {
+      "date": "2026-07-22",
+      "kind": "lista_definitiva",
+      "title": "Relación definitiva de interinos de Secundaria y otros cuerpos 2026/2027",
+      "url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=Resoluci%C3%B3n+Definitiva+listas+de+interinos+2026-2027.pdf&IDCONTENIDO=208095&IDTIPO=60&RASTRO=c798%24m4254%2C27204",
+      "relevant": true
+    }
+  ],
+  "counts": {
+    "lista": 457,
+    "bloque_1": 196,
+    "bloque_2": 261,
+    "vacantes_filas": 75,
+    "vacantes_plazas": 97,
+    "vacantes_completas": 71,
+    "resultados": 0
+  }
+}

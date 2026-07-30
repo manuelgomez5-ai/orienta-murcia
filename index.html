@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#5046d7">
+  <meta name="description" content="Seguimiento automatizado de vacantes, adjudicaciones y exclusiones de Orientación Educativa en la Región de Murcia.">
+  <title>Orienta Murcia · Seguimiento automático</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#inicio" aria-label="Orienta Murcia">
+      <span class="brand-icon" aria-hidden="true">◎</span>
+      <span><strong>Orienta Murcia</strong><small>Especialidad 0590018</small></span>
+    </a>
+    <nav aria-label="Navegación principal">
+      <button class="nav-btn active" data-view="inicio">Resumen</button>
+      <button class="nav-btn" data-view="vacantes">Vacantes</button>
+      <button class="nav-btn" data-view="movimientos">Movimientos</button>
+      <button class="nav-btn" data-view="buscar">Mi posición</button>
+      <button class="nav-btn" data-view="fuentes">Fuentes</button>
+    </nav>
+    <button class="refresh-button" id="refreshButton" type="button" aria-describedby="refreshHelp">
+      <span class="refresh-icon" aria-hidden="true">↻</span>
+      <span class="refresh-label">Comprobar actualización</span>
+    </button>
+  </header>
+
+  <main>
+    <section class="view active" id="view-inicio">
+      <article class="hero">
+        <div>
+          <span class="live-badge"><i></i><span id="syncMode">Automatización preparada</span></span>
+          <h1>Las listas de Orientación, convertidas en datos claros.</h1>
+          <p>La aplicación localiza nuevas publicaciones de la CARM, abre sus PDFs, extrae la especialidad 0590018 y actualiza vacantes, adjudicaciones, exclusiones y anulaciones.</p>
+          <div class="hero-actions">
+            <button class="button light" data-go="vacantes">Ver vacantes actuales</button>
+            <button class="button glass" data-go="buscar">Consultar mi posición</button>
+          </div>
+        </div>
+        <div class="sync-card">
+          <div class="sync-ring"><span>0590018</span></div>
+          <div><strong>Última comprobación</strong><span id="lastCheck">—</span></div>
+          <div><strong>Último documento</strong><span id="lastDocument">—</span></div>
+          <small id="refreshHelp" class="refresh-help">El botón comprueba la última versión publicada sin usar la caché.</small>
+        </div>
+      </article>
+
+      <section class="stats" aria-label="Resumen de datos">
+        <article class="stat"><span>Vacantes actuales</span><strong id="vacancyTotal">0</strong><small id="vacancyDate">Sin documento</small></article>
+        <article class="stat"><span>Jornada completa</span><strong id="completeTotal">0</strong><small>Plazas, no filas</small></article>
+        <article class="stat"><span>Jornada parcial</span><strong id="partialTotal">0</strong><small id="partialHours">Por horas</small></article>
+        <article class="stat"><span>Movimientos detectados</span><strong id="movementTotal">0</strong><small>Adjudicaciones y exclusiones</small></article>
+      </section>
+
+      <section class="grid two">
+        <article class="panel">
+          <div class="panel-head"><div><span class="kicker">Proceso automático</span><h2>Qué hace el sistema</h2></div><span class="status good">Cada hora</span></div>
+          <div class="steps">
+            <div><b>1</b><span><strong>Revisa la CARM</strong><small>Busca nuevas convocatorias, resultados y exclusiones.</small></span></div>
+            <div><b>2</b><span><strong>Lee el PDF</strong><small>Filtra únicamente Orientación Educativa.</small></span></div>
+            <div><b>3</b><span><strong>Actualiza la web</strong><small>Conserva la fuente, la fecha y el historial.</small></span></div>
+          </div>
+        </article>
+        <article class="panel">
+          <div class="panel-head"><div><span class="kicker">Últimas publicaciones</span><h2>Documentos oficiales</h2></div><button class="text-btn" data-go="fuentes">Ver todas</button></div>
+          <div id="latestDocs" class="doc-list"></div>
+        </article>
+      </section>
+
+      <div id="errorBox" class="alert danger hidden"></div>
+      <div class="alert info"><strong>Importante:</strong> la posición activa es una estimación. La resolución oficial siempre prevalece, especialmente ante exclusiones provisionales, correcciones y perfiles específicos.</div>
+    </section>
+
+    <section class="view" id="view-vacantes">
+      <div class="page-head"><div><span class="kicker">Listado vigente</span><h1>Vacantes de Orientación Educativa</h1><p id="vacancySubtitle">Datos extraídos del último documento oficial.</p></div><a id="vacancySource" class="button secondary" target="_blank" rel="noopener">Abrir PDF oficial</a></div>
+      <section class="stats compact">
+        <article class="stat"><span>Total</span><strong id="vacTotal2">0</strong></article>
+        <article class="stat"><span>Completas</span><strong id="vacComplete2">0</strong></article>
+        <article class="stat"><span>Parciales</span><strong id="vacPartial2">0</strong></article>
+        <article class="stat"><span>Centros / filas</span><strong id="vacRows2">0</strong></article>
+      </section>
+      <article class="panel">
+        <div class="filters">
+          <input id="vacSearch" type="search" placeholder="Buscar centro, localidad o código">
+          <select id="vacJourney"><option value="all">Todas las jornadas</option><option value="Completa">Completas</option><option value="Parcial">Parciales</option></select>
+          <select id="vacProfile"><option value="all">Todos los perfiles</option><option value="SIN PERFIL">Sin perfil</option><option value="AFINES">Afines</option></select>
+        </div>
+        <div class="table-wrap"><table><thead><tr><th>Centro</th><th>Localidad</th><th>Jornada</th><th>Plazas</th><th>Perfil</th><th>Observaciones</th></tr></thead><tbody id="vacancyBody"></tbody></table></div>
+        <p class="table-note" id="vacancyCount"></p>
+      </article>
+    </section>
+
+    <section class="view" id="view-movimientos">
+      <div class="page-head"><div><span class="kicker">Historial</span><h1>Adjudicaciones, exclusiones y anulaciones</h1><p>Solo se muestran las filas de la especialidad 0590018 detectadas en documentos oficiales.</p></div></div>
+      <div class="tabbar">
+        <button class="tab active" data-tab="adjudications">Adjudicaciones <span id="adjBadge">0</span></button>
+        <button class="tab" data-tab="exclusions">Exclusiones <span id="excBadge">0</span></button>
+        <button class="tab" data-tab="annulled">Anuladas <span id="annBadge">0</span></button>
+      </div>
+      <article class="panel movement-panel active" id="tab-adjudications">
+        <div class="filters"><input id="adjSearch" type="search" placeholder="Buscar nº de lista, iniciales o centro"><select id="adjStatus"><option value="all">Todos los estados</option><option value="Definitiva">Definitivas</option><option value="Provisional">Provisionales</option></select></div>
+        <div class="table-wrap"><table><thead><tr><th>Fecha</th><th>Nº lista</th><th>Persona</th><th>Centro</th><th>Jornada</th><th>Estado</th><th>Ámbito</th></tr></thead><tbody id="adjBody"></tbody></table></div>
+      </article>
+      <article class="panel movement-panel" id="tab-exclusions">
+        <div class="filters"><input id="excSearch" type="search" placeholder="Buscar nº de lista o iniciales"></div>
+        <div class="table-wrap"><table><thead><tr><th>Fecha</th><th>Nº lista</th><th>Persona</th><th>Motivo</th><th>Estado</th><th>Curso</th></tr></thead><tbody id="excBody"></tbody></table></div>
+      </article>
+      <article class="panel movement-panel" id="tab-annulled">
+        <div class="table-wrap"><table><thead><tr><th>Fecha</th><th>Centro</th><th>Localidad</th><th>Jornada</th><th>Plazas</th></tr></thead><tbody id="annBody"></tbody></table></div>
+      </article>
+    </section>
+
+    <section class="view" id="view-buscar">
+      <div class="page-head"><div><span class="kicker">Consulta privada</span><h1>Busca tu puesto</h1><p>La búsqueda se realiza en el navegador. No se envía ni se guarda.</p></div></div>
+      <article class="panel search-panel">
+        <div class="search-row"><input id="personSearch" type="search" placeholder="Nombre, nº de lista, DNI enmascarado o puesto"><button class="button primary" id="personButton">Buscar</button></div>
+        <div id="rankingNotice" class="alert warning"></div>
+        <div id="personResults" class="person-results"></div>
+      </article>
+      <article class="panel" id="positionPanel">
+        <div class="panel-head"><div><span class="kicker">Cálculo estimado</span><h2>Cómo se obtiene la posición activa</h2></div></div>
+        <p class="explanation">Se toma el puesto oficial y se descuentan las personas anteriores con adjudicación o exclusión definitiva marcada como relevante para la lista actual. Los movimientos provisionales se muestran, pero no se descuentan automáticamente.</p>
+      </article>
+    </section>
+
+    <section class="view" id="view-fuentes">
+      <div class="page-head"><div><span class="kicker">Trazabilidad</span><h1>Fuentes y estado de sincronización</h1><p>Cada dato mantiene el enlace al documento oficial del que procede.</p></div></div>
+      <section class="grid two">
+        <article class="panel"><div class="panel-head"><div><span class="kicker">Estado</span><h2>Sincronización</h2></div><span id="syncStatusPill" class="status good">Preparada</span></div><dl class="status-list"><div><dt>Última comprobación</dt><dd id="sourceLastCheck">—</dd></div><div><dt>Último éxito</dt><dd id="sourceLastSuccess">—</dd></div><div><dt>Especialidad</dt><dd>0590018 · Orientación Educativa</dd></div><div><dt>Frecuencia configurada</dt><dd>Cada hora</dd></div></dl></article>
+        <article class="panel"><div class="panel-head"><div><span class="kicker">Privacidad</span><h2>Datos personales</h2></div></div><p class="explanation">La interfaz pública utiliza DNI enmascarado e iniciales en movimientos. El repositorio puede conservar nombres completos solo para hacer coincidencias internas; no se muestran en esas tablas.</p></article>
+      </section>
+      <article class="panel"><div class="panel-head"><div><span class="kicker">Documentos procesados</span><h2>Registro oficial</h2></div></div><div id="allDocs" class="doc-list full"></div></article>
+      <article class="panel"><div class="panel-head"><div><span class="kicker">Páginas supervisadas</span><h2>Origen de las novedades</h2></div></div><div class="source-links"><a target="_blank" rel="noopener" href="https://www.carm.es/web/pagina?IDCONTENIDO=4254&IDTIPO=100&RASTRO=c%24m22725%2C22759">Novedades de Recursos Humanos</a><a target="_blank" rel="noopener" href="https://www.carm.es/web/pagina?IDCONTENIDO=24219&IDTIPO=100&RASTRO=c798%24m3911%2C4036">Resultados de adjudicación</a><a target="_blank" rel="noopener" href="https://www.carm.es/web/pagina?IDCONTENIDO=4052&IDTIPO=100&RASTRO=c798%24m3911%2C4036">Exclusiones de Secundaria</a></div></article>
+    </section>
+  </main>
+
+  <div id="updateToast" class="update-toast" role="status" aria-live="polite"></div>
+
+  <footer><strong>Orienta Murcia</strong> es un proyecto independiente. No pertenece a la Consejería de Educación. Los documentos oficiales de la CARM son la única fuente con efectos administrativos.</footer>
+  <script src="data/bundle.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

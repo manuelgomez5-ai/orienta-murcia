@@ -1,0 +1,48 @@
+{
+  "rows": [
+    {
+      "list_number": "25002060",
+      "masked_id": "***5966**",
+      "name": "F. R. M.",
+      "reason": "No participación",
+      "document_date": "2026-04-29",
+      "source_url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=LISTADO+DE+EXCLUIDOS+%28COPIA%29.pdf&IDCONTENIDO=206251&IDTIPO=60&RASTRO=c%24m3911%2C4036%2C4052",
+      "course": "2025/2026",
+      "status": "Provisional",
+      "affects_interim_ranking": false
+    },
+    {
+      "list_number": "25002070",
+      "masked_id": "***7184**",
+      "name": "P. G. A. J.",
+      "reason": "No participación",
+      "document_date": "2026-04-29",
+      "source_url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=LISTADO+DE+EXCLUIDOS+%28COPIA%29.pdf&IDCONTENIDO=206251&IDTIPO=60&RASTRO=c%24m3911%2C4036%2C4052",
+      "course": "2025/2026",
+      "status": "Provisional",
+      "affects_interim_ranking": false
+    },
+    {
+      "list_number": "25002090",
+      "masked_id": "***1891**",
+      "name": "H. B. M. B.",
+      "reason": "No participación",
+      "document_date": "2026-04-29",
+      "source_url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=LISTADO+DE+EXCLUIDOS+%28COPIA%29.pdf&IDCONTENIDO=206251&IDTIPO=60&RASTRO=c%24m3911%2C4036%2C4052",
+      "course": "2025/2026",
+      "status": "Provisional",
+      "affects_interim_ranking": false
+    },
+    {
+      "list_number": "25002100",
+      "masked_id": "***0158**",
+      "name": "P. P. B. M.",
+      "reason": "No participación",
+      "document_date": "2026-04-29",
+      "source_url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=LISTADO+DE+EXCLUIDOS+%28COPIA%29.pdf&IDCONTENIDO=206251&IDTIPO=60&RASTRO=c%24m3911%2C4036%2C4052",
+      "course": "2025/2026",
+      "status": "Provisional",
+      "affects_interim_ranking": false
+    }
+  ]
+}

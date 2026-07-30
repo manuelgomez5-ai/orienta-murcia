@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "date": "2026-07-29",
+      "type": "Vacantes",
+      "title": "Listado de vacantes de Secundaria · especialidad 0590018 extraída automáticamente",
+      "url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=ADJVACANTESSECUNDARIA-928392.pdf&IDCONTENIDO=208287&RASTRO=c%24m22725%2C22759%2C4254",
+      "official": true,
+      "orientation_rows": 94
+    },
+    {
+      "date": "2026-07-29",
+      "type": "Convocatoria",
+      "title": "Acto de adjudicación telemático de interinos de Secundaria y otros cuerpos para el curso 2026/2027",
+      "url": "https://www.carm.es/web/pagina?IDCONTENIDO=208288&IDTIPO=60&RASTRO=c%24m22725%2C22759%2C4254",
+      "official": true,
+      "orientation_rows": 0
+    },
+    {
+      "date": "2026-07-28",
+      "type": "Adjudicación",
+      "title": "Resultados definitivos de funcionarios de carrera de Secundaria y otros cuerpos",
+      "url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=ADJCONPLAZASECUNDARIA-292057.pdf&IDCONTENIDO=208238&RASTRO=c77%24m22725%2C22759%2C4254",
+      "official": true,
+      "orientation_rows": 26
+    },
+    {
+      "date": "2026-07-22",
+      "type": "Ranking",
+      "title": "Relación definitiva del personal interino de Secundaria y otros cuerpos para el curso 2026/2027",
+      "url": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=Resoluci%C3%B3n+Definitiva+listas+de+interinos+2026-2027.pdf&IDCONTENIDO=208095&IDTIPO=60&RASTRO=c798%24m4254%2C27204",
+      "official": true,
+      "orientation_rows": 457
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+ORIENTA MURCIA · PUBLICACIÓN RÁPIDA
+
+La web ya está terminada. Para convertirla en un enlace público permanente:
+
+1. Entra en github.com y crea un repositorio llamado "orienta-murcia".
+2. Sube todos los archivos de esta carpeta.
+3. En Settings > Actions > General, activa los permisos de lectura y escritura.
+4. En Settings > Pages, elige GitHub Actions.
+5. En la pestaña Actions, ejecuta primero "Sincronizar CARM".
+
+El enlace será parecido a:
+https://TU-USUARIO.github.io/orienta-murcia/
+
+La comprobación quedará programada cada 15 minutos. Los visitantes no tienen que
+instalar ni descargar nada: solo abrirán ese enlace.
+
+IMPORTANTE
+- La primera sincronización real se ejecuta al subir el proyecto a GitHub.
+- Si la CARM cambia el formato de un PDF, la web conservará el último dato válido
+  y mostrará el aviso en el apartado Fuentes.
+- La resolución oficial de la CARM prevalece siempre.
+
+
+BOTÓN COMPROBAR ACTUALIZACIÓN
+-----------------
+El botón “Actualizar ahora” vuelve a descargar los datos publicados sin caché. La lectura de nuevos PDF de la CARM se ejecuta de forma segura mediante GitHub Actions cada 15 minutos o al lanzar manualmente el flujo “Sincronizar CARM”.
+
+
+NO PUBLICAR EN CANVA
+--------------------
+Canva importa una fotografía estática del diseño, pero no ejecuta el sincronizador ni los scripts de servidor.

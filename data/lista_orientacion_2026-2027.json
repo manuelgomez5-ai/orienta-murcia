@@ -1,0 +1,4572 @@
+[
+  {
+    "bloque": 1,
+    "numero_lista": 25000010,
+    "dni": "***9969**",
+    "nombre": "RUIZ MARTINEZ, CARMEN",
+    "puntos": 19.8509,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 1
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000020,
+    "dni": "***2538**",
+    "nombre": "SANCHEZ TERUEL, JOSE JUAN",
+    "puntos": 19.579,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 2
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000030,
+    "dni": "***9702**",
+    "nombre": "LOPEZ NOGUERA, JOSE ALEJANDRO",
+    "puntos": 18.4345,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 3
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000040,
+    "dni": "***2210**",
+    "nombre": "MADRID MARTINEZ, IRENE",
+    "puntos": 18.1,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 4
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000050,
+    "dni": "***2905**",
+    "nombre": "HERNANDEZ GARCIA, Mª DOLORES",
+    "puntos": 17.016,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 5
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000060,
+    "dni": "***4511**",
+    "nombre": "AGUILAR TARRAGA, ALBERTO",
+    "puntos": 16.6133,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 6
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000070,
+    "dni": "***5260**",
+    "nombre": "ARPON BERNAL, ANA MARIA",
+    "puntos": 16.47,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 7
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000080,
+    "dni": "***7998**",
+    "nombre": "RUIZ PONCE, MARIA JOSE",
+    "puntos": 16.4446,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 8
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000100,
+    "dni": "***7017**",
+    "nombre": "LOPEZ MUÑOZ, MARIA JOSE",
+    "puntos": 16.1826,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 9
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000110,
+    "dni": "***8522**",
+    "nombre": "BAÑOS GUILLEN, MARIA CARMEN",
+    "puntos": 16.1736,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 10
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000120,
+    "dni": "***2306**",
+    "nombre": "GARRE TOMAS, ANA BELEN",
+    "puntos": 15.7543,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 11
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000130,
+    "dni": "***3369**",
+    "nombre": "MELGAREJO CARRILLO, MARIA DOLORES",
+    "puntos": 15.228,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 12
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000140,
+    "dni": "***5078**",
+    "nombre": "ROJO VIGUERAS, LIDIA",
+    "puntos": 15.2125,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 13
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000150,
+    "dni": "***4264**",
+    "nombre": "MORENO NAVARRO, SONIA",
+    "puntos": 14.884,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 14
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000160,
+    "dni": "***3130**",
+    "nombre": "GARCIA SANDOVAL, DOLORES",
+    "puntos": 14.118,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 15
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000170,
+    "dni": "***9713**",
+    "nombre": "IBAÑEZ JIMENEZ, TERESA",
+    "puntos": 13.905,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 16
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000180,
+    "dni": "***4852**",
+    "nombre": "ARIAS BUJ, MARIA",
+    "puntos": 13.632,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 17
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000190,
+    "dni": "***0587**",
+    "nombre": "GARCIA MORENO, ANA MARIA",
+    "puntos": 13.392,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 18
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000210,
+    "dni": "***2483**",
+    "nombre": "KHALIL JUAN, ANGELES",
+    "puntos": 13.2884,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 19
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000220,
+    "dni": "***4781**",
+    "nombre": "CALLEJON FELICES, MANUELA",
+    "puntos": 13.246,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 20
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000230,
+    "dni": "***1524**",
+    "nombre": "SERNA RAMIREZ, EVA MARIA",
+    "puntos": 13.105,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 21
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000240,
+    "dni": "***6341**",
+    "nombre": "MOYANO PIQUERAS, CARLOS",
+    "puntos": 13.0277,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 22
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000250,
+    "dni": "***4850**",
+    "nombre": "ANUCHA GUARDIA, RUTH",
+    "puntos": 12.697,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 23
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000260,
+    "dni": "***0680**",
+    "nombre": "SANCHEZ CHUECOS, ANA MARIA",
+    "puntos": 12.685,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 24
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000270,
+    "dni": "***4967**",
+    "nombre": "SANCHEZ SORIA, ALMUDENA",
+    "puntos": 12.5573,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 25
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000280,
+    "dni": "***5734**",
+    "nombre": "BENITO RUIZ, ANA MARIA",
+    "puntos": 12.519,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 26
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000290,
+    "dni": "***4396**",
+    "nombre": "VILLA ALCARAZ, CARMEN MARIA",
+    "puntos": 12.5135,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 27
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000300,
+    "dni": "***1446**",
+    "nombre": "PEREZ GONZALEZ, MARIA ISABEL",
+    "puntos": 12.5066,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 28
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000310,
+    "dni": "***0531**",
+    "nombre": "GARCIA ESCALONA, CRISTINA",
+    "puntos": 12.24,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 29
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000320,
+    "dni": "***7546**",
+    "nombre": "BAÑON BAÑON, MARIA JOSE",
+    "puntos": 12.1285,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 30
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000330,
+    "dni": "***9486**",
+    "nombre": "MENDEZ MARTINEZ, MARIA JOSE",
+    "puntos": 12.1124,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 31
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000340,
+    "dni": "***6610**",
+    "nombre": "GARCIA ISAAC, FRANCISCO JAVIER",
+    "puntos": 12.0275,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 32
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000350,
+    "dni": "***5315**",
+    "nombre": "CARCELES TORRES, VICTORIA",
+    "puntos": 11.9806,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 33
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000360,
+    "dni": "***7723**",
+    "nombre": "QUIÑONERO TOMAS, ISABEL",
+    "puntos": 11.8605,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 34
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000380,
+    "dni": "***0177**",
+    "nombre": "RODA FEBRERO, JOSEFA",
+    "puntos": 11.7442,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 35
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000390,
+    "dni": "***2776**",
+    "nombre": "CONESA GARCIA, MARIA ANGELES",
+    "puntos": 11.744,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 36
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000400,
+    "dni": "***2218**",
+    "nombre": "BOSCH YUSTE, SOFIA",
+    "puntos": 11.7363,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 37
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000410,
+    "dni": "***4214**",
+    "nombre": "FRANCO MARTINEZ, MARI ANGELES",
+    "puntos": 11.6558,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 38
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000420,
+    "dni": "***8073**",
+    "nombre": "TUDELA CARRILLO, BLAS",
+    "puntos": 11.475,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 39
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000430,
+    "dni": "***2845**",
+    "nombre": "SANCHEZ CLARES, ANA MARIA",
+    "puntos": 11.434,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 40
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000440,
+    "dni": "***2315**",
+    "nombre": "SANCHEZ SANCHEZ, MARIA LUZ",
+    "puntos": 11.3108,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 41
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000450,
+    "dni": "***4144**",
+    "nombre": "SANCHEZ MARMOL, DIEGO JAVIER",
+    "puntos": 11.2835,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 42
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000460,
+    "dni": "***6814**",
+    "nombre": "IVARS RUBIO, TERESA",
+    "puntos": 11.2565,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 43
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000470,
+    "dni": "***3566**",
+    "nombre": "MARTINEZ GOMEZ, MARIA DEL ROSARIO",
+    "puntos": 11.2275,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 44
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000480,
+    "dni": "***8682**",
+    "nombre": "GARCIA CAMARA, MARIA SOLEDAD",
+    "puntos": 11.2226,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 45
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000490,
+    "dni": "***3032**",
+    "nombre": "TORREGROSA PEREZ, JORGE",
+    "puntos": 11.0697,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 46
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000500,
+    "dni": "***4102**",
+    "nombre": "RAMON PEREZ, ALICIA",
+    "puntos": 11.0688,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 47
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000510,
+    "dni": "***1365**",
+    "nombre": "FERNANDEZ CERON, MARIA DEL CARMEN",
+    "puntos": 11.0613,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 48
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000520,
+    "dni": "***2053**",
+    "nombre": "BOUZA DELGADO, LORENA",
+    "puntos": 11.0049,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 49
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000530,
+    "dni": "***1625**",
+    "nombre": "MARTINEZ NICOLAS, ANGELA",
+    "puntos": 10.98,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 50
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000540,
+    "dni": "***2603**",
+    "nombre": "HERNANDEZ SANCHEZ, MARIA LUISA",
+    "puntos": 10.9587,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 51
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000550,
+    "dni": "***6700**",
+    "nombre": "LOPEZ LOZANO, ANA BELEN",
+    "puntos": 10.922,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 52
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000560,
+    "dni": "***7651**",
+    "nombre": "CELDRAN MOLINA, JUANA",
+    "puntos": 10.8827,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 53
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000570,
+    "dni": "***5959**",
+    "nombre": "GOMEZ ESPINOSA, MARCOS",
+    "puntos": 10.8223,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 54
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000580,
+    "dni": "***6628**",
+    "nombre": "CASTEJON SANCHEZ, CLAUDIA",
+    "puntos": 10.81,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 55
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000590,
+    "dni": "***4073**",
+    "nombre": "PLANES MAIQUEZ, PAULA",
+    "puntos": 10.695,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 56
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000600,
+    "dni": "***1250**",
+    "nombre": "LOPEZ CASTAÑO, LAURA",
+    "puntos": 10.671,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 57
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000610,
+    "dni": "***1140**",
+    "nombre": "NAVARRO PEREZ, MARIA LUISA",
+    "puntos": 10.6498,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 58
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000620,
+    "dni": "***5551**",
+    "nombre": "RONCERO BELLIDO, MARIA DEL PILAR",
+    "puntos": 10.6087,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 59
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000630,
+    "dni": "***1304**",
+    "nombre": "RUIZ ALARCON, ESTEFANIA",
+    "puntos": 10.3896,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 60
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000640,
+    "dni": "***1659**",
+    "nombre": "MARTINEZ ORTIZ, MARIA FUENSANTA",
+    "puntos": 10.3879,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 61
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000650,
+    "dni": "***1078**",
+    "nombre": "RUIZ GALIAN, MARIA DEL CARMEN",
+    "puntos": 10.3705,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 62
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000660,
+    "dni": "***5993**",
+    "nombre": "CAMACHO SANCHEZ, ROSANA",
+    "puntos": 10.3696,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 63
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000670,
+    "dni": "***6326**",
+    "nombre": "VICENTE RICO, APOLONIA",
+    "puntos": 10.3,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 64
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000680,
+    "dni": "***5869**",
+    "nombre": "GALLARDO OLMEDO, ELOISA",
+    "puntos": 10.194,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 65
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000690,
+    "dni": "***3428**",
+    "nombre": "CIFUENTES EGEA, ANA",
+    "puntos": 10.0896,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 66
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000700,
+    "dni": "***2029**",
+    "nombre": "GARCIA CAMPILLO, MARIA JOSE",
+    "puntos": 10.006,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 67
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000710,
+    "dni": "***7364**",
+    "nombre": "SERRANO GUERAO, YOLANDA",
+    "puntos": 9.998,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 68
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000720,
+    "dni": "***1108**",
+    "nombre": "ROCA SICILIA, ISABEL",
+    "puntos": 9.9889,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 69
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000730,
+    "dni": "***5625**",
+    "nombre": "ILLAN ABELLAN, MARIA FUENSANTA",
+    "puntos": 9.9383,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 70
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000740,
+    "dni": "***3099**",
+    "nombre": "PEREZ NAVARRO, YOLANDA",
+    "puntos": 9.8286,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 71
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000750,
+    "dni": "***8128**",
+    "nombre": "MUÑOZ GONZALEZ, BEATRIZ",
+    "puntos": 9.792,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 72
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000770,
+    "dni": "***3701**",
+    "nombre": "CEREZO BALLESTA, MARIA DEL PILAR",
+    "puntos": 9.7509,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 73
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000780,
+    "dni": "***9507**",
+    "nombre": "MARTINEZ CAMPILLO, EVA BELEN",
+    "puntos": 9.75,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 74
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000790,
+    "dni": "***3444**",
+    "nombre": "ZAMORA LORENTE, MARIA JOSE",
+    "puntos": 9.749,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 75
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000800,
+    "dni": "***9830**",
+    "nombre": "MARTINEZ MARIN, MARIA",
+    "puntos": 9.7445,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 76
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000810,
+    "dni": "***9108**",
+    "nombre": "NAVARRO LOPEZ, CRISTINA",
+    "puntos": 9.7197,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 77
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000820,
+    "dni": "***5350**",
+    "nombre": "BASTIDA GIL, MIGUEL ANGEL",
+    "puntos": 9.676,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 78
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000830,
+    "dni": "***4512**",
+    "nombre": "AGUILAR SERNA, SONIA",
+    "puntos": 9.5673,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 79
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000840,
+    "dni": "***6949**",
+    "nombre": "BELMONTE LARIO, MARIA JESUS",
+    "puntos": 9.545,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 80
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000850,
+    "dni": "***1730**",
+    "nombre": "SEVILLA SEVILLA, MARIA CARMEN",
+    "puntos": 9.5376,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 81
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000860,
+    "dni": "***9895**",
+    "nombre": "FERNANDEZ GALLEGO, MARIA JOSE",
+    "puntos": 9.4988,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 82
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000870,
+    "dni": "***5581**",
+    "nombre": "RODA PAEZ, MONICA",
+    "puntos": 9.49,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 83
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000880,
+    "dni": "***3323**",
+    "nombre": "NAVARRO LLAMAS, JOSEFA",
+    "puntos": 9.46,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 84
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000890,
+    "dni": "***8503**",
+    "nombre": "TUDELA ROMERO, RAQUEL",
+    "puntos": 9.4099,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 85
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000900,
+    "dni": "***4217**",
+    "nombre": "VALERO ALMAGRO, LEONOR",
+    "puntos": 9.3596,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 86
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000910,
+    "dni": "***5643**",
+    "nombre": "TORRANO ROJO, MARIA",
+    "puntos": 9.3578,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 87
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000920,
+    "dni": "***0297**",
+    "nombre": "FERNANDEZ CARRILLO, ESTER",
+    "puntos": 9.353,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 88
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000930,
+    "dni": "***1920**",
+    "nombre": "MORENO MARTINEZ, VICENTE",
+    "puntos": 9.2775,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 89
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000940,
+    "dni": "***2530**",
+    "nombre": "BUENDIA SANCHEZ, BELEN",
+    "puntos": 9.2518,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 90
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000950,
+    "dni": "***0575**",
+    "nombre": "ROBLES NAVARRO, ROSALIA",
+    "puntos": 9.2249,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 91
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000960,
+    "dni": "***0928**",
+    "nombre": "LOPEZ GARRE, JOSEFA MARIA",
+    "puntos": 9.218,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 92
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000970,
+    "dni": "***9369**",
+    "nombre": "REINALDOS LOPEZ, MARIA",
+    "puntos": 9.1737,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 93
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000980,
+    "dni": "***9936**",
+    "nombre": "GARCIA GARCIA, LORENA",
+    "puntos": 9.156,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 94
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25000990,
+    "dni": "***1518**",
+    "nombre": "RODRIGUEZ ORTEGA, MARIA DE LA PURIFICACION",
+    "puntos": 9.1183,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 95
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001000,
+    "dni": "***2367**",
+    "nombre": "GONZALEZ BOTIA, MONICA DEL MAR",
+    "puntos": 9.0957,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 96
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001010,
+    "dni": "***9692**",
+    "nombre": "GONZALEZ TEJERO, ANA",
+    "puntos": 9.0825,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 97
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001020,
+    "dni": "***9169**",
+    "nombre": "OLIVA BERNAL, DAVID",
+    "puntos": 9.07,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 98
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001030,
+    "dni": "***3937**",
+    "nombre": "MORENO FENOR, MARIA DEL CARMEN",
+    "puntos": 8.945,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 99
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001040,
+    "dni": "***1068**",
+    "nombre": "MOLERO SOTO, MARIA",
+    "puntos": 8.94,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 100
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001050,
+    "dni": "***3552**",
+    "nombre": "MELGARES DE AGUILAR MARCO, IRENE",
+    "puntos": 8.9312,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 101
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001060,
+    "dni": "***2906**",
+    "nombre": "VICENTE SANCHEZ, ESTHER",
+    "puntos": 8.911,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 102
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001070,
+    "dni": "***5116**",
+    "nombre": "HORTELANO SANCHEZ, PATRICIA",
+    "puntos": 8.8933,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 103
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001080,
+    "dni": "***8298**",
+    "nombre": "GRILLE MARISCAL, MARTA",
+    "puntos": 8.7815,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 104
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001090,
+    "dni": "***1027**",
+    "nombre": "OSETE MARIN, PAULA",
+    "puntos": 8.745,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 105
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001100,
+    "dni": "***2312**",
+    "nombre": "TORRES MATEU, MARTA",
+    "puntos": 8.745,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 106
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001110,
+    "dni": "***0828**",
+    "nombre": "EGEA GONZALEZ, IRENE MARIA",
+    "puntos": 8.7142,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 107
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001120,
+    "dni": "***4484**",
+    "nombre": "RAYOS BALLESTER, MARTA",
+    "puntos": 8.6846,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 108
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001130,
+    "dni": "***1344**",
+    "nombre": "CALERO LUNA, MARTA",
+    "puntos": 8.6691,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 109
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001140,
+    "dni": "***2101**",
+    "nombre": "PAREDES HERNANDEZ, PATRICIA",
+    "puntos": 8.6533,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 110
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001150,
+    "dni": "***7160**",
+    "nombre": "GALVEZ MARTINEZ, MARIA JOSE",
+    "puntos": 8.608,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 111
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001160,
+    "dni": "***5595**",
+    "nombre": "GUTIERREZ MADRID, MARTA",
+    "puntos": 8.5475,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 112
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001170,
+    "dni": "***4145**",
+    "nombre": "ALVAREZ SANTIAGO, IRENE",
+    "puntos": 8.4806,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 113
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001180,
+    "dni": "***5064**",
+    "nombre": "LORENTE BAÑOS, MARIA",
+    "puntos": 8.458,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 114
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001190,
+    "dni": "***2725**",
+    "nombre": "CAÑADAS MARTINEZ, ROSARIO",
+    "puntos": 8.4503,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 115
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001200,
+    "dni": "***4367**",
+    "nombre": "FRANCO GUILLEN, DANIEL",
+    "puntos": 8.4083,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 116
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001210,
+    "dni": "***4727**",
+    "nombre": "SANCHEZ MARTINEZ, CRISTINA",
+    "puntos": 8.4054,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 117
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001220,
+    "dni": "***3130**",
+    "nombre": "GARCIA SANDOVAL, MARIA",
+    "puntos": 8.3654,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 118
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001230,
+    "dni": "***4416**",
+    "nombre": "GARRIGOS SANCHEZ, ALEJANDRO",
+    "puntos": 8.3283,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 119
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001240,
+    "dni": "***0912**",
+    "nombre": "MILLAN VALERA, BRIGIDA MARIA",
+    "puntos": 8.3148,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 120
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001250,
+    "dni": "***5841**",
+    "nombre": "MARTINEZ LOPEZ, VIRGINIA",
+    "puntos": 8.2761,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 121
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001260,
+    "dni": "***3337**",
+    "nombre": "CARRASCO MOLINA, ANA CRISTINA",
+    "puntos": 8.233,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 122
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001270,
+    "dni": "***2585**",
+    "nombre": "PARRA MONTAGUT, SANDRA",
+    "puntos": 8.2223,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 123
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001290,
+    "dni": "***5150**",
+    "nombre": "GARCIA PEÑALVER, MARIA ANGELES",
+    "puntos": 8.2,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 124
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001300,
+    "dni": "***1850**",
+    "nombre": "FERNANDEZ ALACID, ESTHER",
+    "puntos": 8.195,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 125
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001310,
+    "dni": "***9764**",
+    "nombre": "LLORENTE DE LINARES, PAULA",
+    "puntos": 8.1587,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 126
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001320,
+    "dni": "***0177**",
+    "nombre": "LORENTE MOTELLON, MARIA DE LOS ANGELES",
+    "puntos": 8.1233,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 127
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001330,
+    "dni": "***3483**",
+    "nombre": "PARAPAR FERNANDEZ, YOLANDA",
+    "puntos": 8.0939,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 128
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001340,
+    "dni": "***3693**",
+    "nombre": "ABELLAN MEDINA, AITANA",
+    "puntos": 8.0872,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 129
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001350,
+    "dni": "***4520**",
+    "nombre": "CANOVAS PELEGRIN, RITA",
+    "puntos": 8.0772,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 130
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001360,
+    "dni": "***7069**",
+    "nombre": "ARCAS LOPEZ, JULIA",
+    "puntos": 8.0317,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 131
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001370,
+    "dni": "***7067**",
+    "nombre": "GOMEZ GOMEZ, NATIVIDAD",
+    "puntos": 8.0064,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 132
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001380,
+    "dni": "***4149**",
+    "nombre": "GARCES DE LOS FAYOS LOPEZ, EVA",
+    "puntos": 7.8352,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 133
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001390,
+    "dni": "***2852**",
+    "nombre": "GOMEZ GARCIA, PABLO",
+    "puntos": 7.8345,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 134
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001400,
+    "dni": "***6665**",
+    "nombre": "SANCHEZ OLIVARES, IRENE",
+    "puntos": 7.6379,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 135
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001410,
+    "dni": "***4426**",
+    "nombre": "GAMBAO GALLEGO, CRISTINA",
+    "puntos": 7.6103,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 136
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001420,
+    "dni": "***4377**",
+    "nombre": "QUERO ALBA, SANDRA",
+    "puntos": 7.5957,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 137
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001430,
+    "dni": "***4348**",
+    "nombre": "LOPEZ MOTOS, ISABEL",
+    "puntos": 7.566,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 138
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001440,
+    "dni": "***5296**",
+    "nombre": "GALLARDO RUIZ, ISABEL",
+    "puntos": 7.52,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 139
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001450,
+    "dni": "***0664**",
+    "nombre": "CORBALAN CANO, CRISTINA",
+    "puntos": 7.4889,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 140
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001460,
+    "dni": "***6916**",
+    "nombre": "GUILLEN CELDRAN, MERCEDES",
+    "puntos": 7.4846,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 141
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001470,
+    "dni": "***6333**",
+    "nombre": "HERNANDEZ GUILLEN, ANTONIO",
+    "puntos": 7.48,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 142
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001480,
+    "dni": "***5050**",
+    "nombre": "CAVA GONZALEZ, YOLANDA",
+    "puntos": 7.4735,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 143
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001490,
+    "dni": "***1750**",
+    "nombre": "GUILLERMO GIMENEZ, M.PAZ",
+    "puntos": 7.471,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 144
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001500,
+    "dni": "***0840**",
+    "nombre": "SANCHEZ DIAZ, CARMEN",
+    "puntos": 7.385,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 145
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001510,
+    "dni": "***9722**",
+    "nombre": "MONDEJAR FELICES, LAURA",
+    "puntos": 7.3463,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 146
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001520,
+    "dni": "***9629**",
+    "nombre": "CERVANTES CASTEJON, ANA MARIA",
+    "puntos": 7.3367,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 147
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001530,
+    "dni": "***8746**",
+    "nombre": "CALIN NAVARRO, MARIA DE LA CRUZ",
+    "puntos": 7.3042,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 148
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001540,
+    "dni": "***6343**",
+    "nombre": "SANMARTIN MARTINEZ, LORENA",
+    "puntos": 7.3009,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 149
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001550,
+    "dni": "***1627**",
+    "nombre": "TORAL NAVARRO, ENCARNA MARIA",
+    "puntos": 7.3,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 150
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001560,
+    "dni": "***1972**",
+    "nombre": "BAEZA HERNANDEZ, JOSE ANGEL",
+    "puntos": 7.2687,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 151
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001570,
+    "dni": "***4096**",
+    "nombre": "RODRIGUEZ ROBLES, ELENA MARIA",
+    "puntos": 7.2259,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 152
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001580,
+    "dni": "***3557**",
+    "nombre": "MADRID GARCIA, ANA BELEN",
+    "puntos": 7.2118,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 153
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001590,
+    "dni": "***1765**",
+    "nombre": "NICOLAS ORTIN, ANA MARIA",
+    "puntos": 7.1966,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 154
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001600,
+    "dni": "***5713**",
+    "nombre": "LOPEZ TORROGLOSA, CATALINA",
+    "puntos": 7.166,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 155
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001610,
+    "dni": "***9343**",
+    "nombre": "GUILLEN GARCIA, ISABEL",
+    "puntos": 7.155,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 156
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001620,
+    "dni": "***3353**",
+    "nombre": "GUERRERO GUIRADO, VICTORIA",
+    "puntos": 7.1379,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 157
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001630,
+    "dni": "***9684**",
+    "nombre": "DIAZ CARMONA, JULIAN",
+    "puntos": 7.1309,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 158
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001640,
+    "dni": "***0935**",
+    "nombre": "FERNANDEZ CONTRERAS, EVA MARIA",
+    "puntos": 7.0841,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 159
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001650,
+    "dni": "***4875**",
+    "nombre": "MARTINEZ GARCIA, JONATHAN",
+    "puntos": 7.0589,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 160
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001660,
+    "dni": "***2102**",
+    "nombre": "MARCO CUTILLAS, INMACULADA",
+    "puntos": 7.0437,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 161
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001670,
+    "dni": "***2107**",
+    "nombre": "LLORENTE MARTINEZ, MARIA CARMEN",
+    "puntos": 7.0015,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 162
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001680,
+    "dni": "***4453**",
+    "nombre": "PAGAN PEÑALVER, BARBARA",
+    "puntos": 6.9279,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 163
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001690,
+    "dni": "***2013**",
+    "nombre": "GARCIA MARTINEZ, LAURA",
+    "puntos": 6.912,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 164
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001700,
+    "dni": "***5978**",
+    "nombre": "JIMENEZ MARIN, MARIA DEL PILAR",
+    "puntos": 6.9109,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 165
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001710,
+    "dni": "***4129**",
+    "nombre": "ABELLAN LORENTE, SILVIA",
+    "puntos": 6.8865,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 166
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001720,
+    "dni": "***1736**",
+    "nombre": "VALERA FERNANDEZ, MARIA ANGELES",
+    "puntos": 6.8812,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 167
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001730,
+    "dni": "***3169**",
+    "nombre": "CUESTA MARTINEZ, SERGIO",
+    "puntos": 6.8614,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 168
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001740,
+    "dni": "***0941**",
+    "nombre": "SOLER ROMERO, MARIA DOLORES",
+    "puntos": 6.8112,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 169
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001750,
+    "dni": "***1384**",
+    "nombre": "ROBLES MUSSO ARIAS, ELISA MARIA",
+    "puntos": 6.8057,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 170
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001760,
+    "dni": "***1770**",
+    "nombre": "CORBALAN MARTINEZ, CRISTINA",
+    "puntos": 6.6804,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 171
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001770,
+    "dni": "***5218**",
+    "nombre": "TALAVERA LOPEZ, LAURA MARIA",
+    "puntos": 6.6575,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 172
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001780,
+    "dni": "***3550**",
+    "nombre": "MARTINEZ LOPEZ, LORENA",
+    "puntos": 6.5908,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 173
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001790,
+    "dni": "***9026**",
+    "nombre": "GARCERAN MARTINEZ, MARIA ASCENSIO",
+    "puntos": 6.578,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 174
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001800,
+    "dni": "***5557**",
+    "nombre": "SORIA FERNANDEZ, JENNIFER",
+    "puntos": 6.5608,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 175
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001810,
+    "dni": "***1819**",
+    "nombre": "AGUIRRE BONNET, MARIA TERESA",
+    "puntos": 6.5239,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 176
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001820,
+    "dni": "***8724**",
+    "nombre": "ARBELAEZ VALENCIA, PAULA ANDREA",
+    "puntos": 6.496,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 177
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001830,
+    "dni": "***6515**",
+    "nombre": "GARCIA PIQUERAS, ANA BELEN",
+    "puntos": 6.4857,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 178
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001840,
+    "dni": "***0615**",
+    "nombre": "PEREZ LAZARO, MARIA DEL CARMEN",
+    "puntos": 6.4844,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 179
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001850,
+    "dni": "***5875**",
+    "nombre": "MARTINEZ ANDREO, MARIA DE LAS MERCEDES",
+    "puntos": 6.478,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 180
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001860,
+    "dni": "***4966**",
+    "nombre": "SIERRA MOLINA, MARIA ISABEL",
+    "puntos": 6.4682,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 181
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001870,
+    "dni": "***3996**",
+    "nombre": "GOMEZ ROCH, DIANA",
+    "puntos": 6.426,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 182
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001880,
+    "dni": "***1646**",
+    "nombre": "MANZANO GALVEZ, SOFIA",
+    "puntos": 6.41,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 183
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001890,
+    "dni": "***2834**",
+    "nombre": "RODENAS VERA, ISIDRO",
+    "puntos": 6.4082,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 184
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001900,
+    "dni": "***4171**",
+    "nombre": "ZAMORA LOPEZ, MARIA JOSE",
+    "puntos": 6.4077,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 185
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001910,
+    "dni": "***4911**",
+    "nombre": "PARRA MINO, MARIA DE LAS NIEVES",
+    "puntos": 6.4069,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 186
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001920,
+    "dni": "***0064**",
+    "nombre": "MEROÑO SANCHEZ, ENCARNACION",
+    "puntos": 6.378,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 187
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001930,
+    "dni": "***4398**",
+    "nombre": "MORENO LOCUBICHE, MªJOSE",
+    "puntos": 6.3233,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 188
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001940,
+    "dni": "***9318**",
+    "nombre": "REDONDO MARTINEZ, RAQUEL",
+    "puntos": 6.2586,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 189
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001950,
+    "dni": "***1628**",
+    "nombre": "FERNANDEZ SENAC, MªDEL PILAR",
+    "puntos": 6.2245,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 190
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001960,
+    "dni": "***3179**",
+    "nombre": "CORBALAN GIMENEZ, GINES",
+    "puntos": 6.2119,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 191
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001970,
+    "dni": "***3076**",
+    "nombre": "MORA TRUJILLO, MARINA",
+    "puntos": 6.2056,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 192
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001980,
+    "dni": "***4413**",
+    "nombre": "ALBARRACIN VIVO, ANTONIA",
+    "puntos": 6.188,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 193
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25001990,
+    "dni": "***7097**",
+    "nombre": "SANTIAGO PORLAN, YOLANDA",
+    "puntos": 6.1836,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 194
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25002000,
+    "dni": "***1111**",
+    "nombre": "LOPEZ EGEA, ISABEL",
+    "puntos": 6.053,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 195
+  },
+  {
+    "bloque": 1,
+    "numero_lista": 25002030,
+    "dni": "***6922**",
+    "nombre": "JIMENEZ MOLINA, ARIANA",
+    "puntos": 6.0057,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 196
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002040,
+    "dni": "***3162**",
+    "nombre": "RIO RUIZ, Mª CARMEN",
+    "puntos": 6.3988,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 1
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002050,
+    "dni": "***4152**",
+    "nombre": "CABRERA RABASCO, MARIA",
+    "puntos": 5.8267,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 2
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002060,
+    "dni": "***5966**",
+    "nombre": "FORERO RASO, MARINA",
+    "puntos": 5.4803,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 3
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002080,
+    "dni": "***0918**",
+    "nombre": "DURAN GUIRAO, MARIA JOSEFA",
+    "puntos": 5.2208,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 4
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002090,
+    "dni": "***1891**",
+    "nombre": "HERNANDEZ BELMONTE, MARIA BEATRIZ",
+    "puntos": 4.896,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 5
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002110,
+    "dni": "***3517**",
+    "nombre": "BENITEZ SORIANO, MARIA REMEDIOS",
+    "puntos": 4.7006,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 6
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002120,
+    "dni": "***4936**",
+    "nombre": "RUIZ RUIZ, MARIA DEL PILAR",
+    "puntos": 4.3695,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 7
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002130,
+    "dni": "***1166**",
+    "nombre": "CASTELLAR RECHE, ISABEL",
+    "puntos": 4.3516,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 8
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002140,
+    "dni": "***1469**",
+    "nombre": "GUTIERREZ SANCHEZ, RAMON",
+    "puntos": 4.1918,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 9
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002160,
+    "dni": "***5405**",
+    "nombre": "BARQUERO BREIS, FUENSANTA",
+    "puntos": 3.863,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 10
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002170,
+    "dni": "***2396**",
+    "nombre": "FERNANDEZ GONZALEZ, CARMEN",
+    "puntos": 3.6632,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 11
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002180,
+    "dni": "***5554**",
+    "nombre": "BARCELO RAMOS, MARIA SOLEDAD",
+    "puntos": 3.1937,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 12
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002190,
+    "dni": "***5383**",
+    "nombre": "GAMBIN MARTINEZ, MARIA JESUS",
+    "puntos": 3.1133,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 13
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002200,
+    "dni": "***5335**",
+    "nombre": "TORRES ALCANTARA, TAMARA",
+    "puntos": 3.11,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 14
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002210,
+    "dni": "***1787**",
+    "nombre": "BALSALOBRE PALAZON, MARIA TERESA",
+    "puntos": 2.934,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 15
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002220,
+    "dni": "***5149**",
+    "nombre": "MILLAN NAVARRO, MARIA",
+    "puntos": 2.8454,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 16
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002230,
+    "dni": "***5651**",
+    "nombre": "VILLA TORRECILLAS, VERONICA",
+    "puntos": 2.6233,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 17
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002240,
+    "dni": "***5001**",
+    "nombre": "ROS CANTERO, MARIA JOSE",
+    "puntos": 2.5439,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 18
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002250,
+    "dni": "***1796**",
+    "nombre": "BENITEZ BLANCAS, NURIA",
+    "puntos": 2.5267,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 19
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002280,
+    "dni": "***9316**",
+    "nombre": "SANCHEZ LIDON, NOELIA",
+    "puntos": 2.5046,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 20
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002310,
+    "dni": "***0634**",
+    "nombre": "ORTIZ MOROTE, CARMEN MARIA",
+    "puntos": 2.4009,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 21
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002320,
+    "dni": "***4741**",
+    "nombre": "GARCIA BALLESTER, DIDIER",
+    "puntos": 2.3879,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 22
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002330,
+    "dni": "***6524**",
+    "nombre": "MORALES SANCHEZ, LAURA",
+    "puntos": 2.3858,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 23
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002340,
+    "dni": "***6877**",
+    "nombre": "SERRANO GARCIA, MARIA DE LOS ANGELES",
+    "puntos": 2.3717,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 24
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002350,
+    "dni": "***5399**",
+    "nombre": "ESPIN ROBLES, LETICIA",
+    "puntos": 2.3289,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 25
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002360,
+    "dni": "***1294**",
+    "nombre": "HERNANDEZ ANGOSTO, NOELIA",
+    "puntos": 2.3194,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 26
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002370,
+    "dni": "***3415**",
+    "nombre": "GONZALEZ LOPEZ, MARIA DE LOS ANGELES",
+    "puntos": 2.3062,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 27
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002380,
+    "dni": "***1904**",
+    "nombre": "MARTINEZ MARTINEZ, TAMARA",
+    "puntos": 2.2666,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 28
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002390,
+    "dni": "***4267**",
+    "nombre": "VALERO PEREZ, MAR",
+    "puntos": 2.2181,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 29
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002400,
+    "dni": "***8277**",
+    "nombre": "CANO ESCOLAR, VICTORIA",
+    "puntos": 2.188,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 30
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002410,
+    "dni": "***1816**",
+    "nombre": "MARTIN BERNAL, JOSEFA MARIA",
+    "puntos": 2.1602,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 31
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002420,
+    "dni": "***3571**",
+    "nombre": "ALONSO GIL, MIRIAM",
+    "puntos": 2.1592,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 32
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002430,
+    "dni": "***1459**",
+    "nombre": "ALGUACIL ALARCON, MERCEDES",
+    "puntos": 2.1573,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 33
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002440,
+    "dni": "***8726**",
+    "nombre": "SALVAY PARDO, LISSETTE DEL CISNE",
+    "puntos": 2.1426,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 34
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002450,
+    "dni": "***2410**",
+    "nombre": "PAGAN GARBIN, INES",
+    "puntos": 2.1371,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 35
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002460,
+    "dni": "***1599**",
+    "nombre": "MORALES BARBA, SONIA MARIA",
+    "puntos": 2.0822,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 36
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002470,
+    "dni": "***9956**",
+    "nombre": "NOGALES GONZALEZ, PAULA",
+    "puntos": 2.0724,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 37
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002480,
+    "dni": "***4679**",
+    "nombre": "PEREZ LOZANO, ANDREA",
+    "puntos": 2.0698,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 38
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002490,
+    "dni": "***8630**",
+    "nombre": "DOMINGUEZ ARENAS, CARMEN",
+    "puntos": 2.0591,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 39
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002500,
+    "dni": "***0040**",
+    "nombre": "MARTIN GONZALEZ, CARMEN EUGENIA",
+    "puntos": 2.0443,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 40
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002510,
+    "dni": "***2577**",
+    "nombre": "BLAZQUEZ GARCIA, MARTA",
+    "puntos": 2.0208,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 41
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002520,
+    "dni": "***3691**",
+    "nombre": "BLAYA GALLEGO, ELENA",
+    "puntos": 2.0175,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 42
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002530,
+    "dni": "***9860**",
+    "nombre": "MARMOL SIMON, MARIA DEL MAR",
+    "puntos": 2.0123,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 43
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002540,
+    "dni": "***6658**",
+    "nombre": "SERRANO GINER, MARINA",
+    "puntos": 2.0067,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 44
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002550,
+    "dni": "***1706**",
+    "nombre": "YAGUES FERNANDEZ, CONSUELO",
+    "puntos": 2.0016,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 45
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002560,
+    "dni": "***4441**",
+    "nombre": "CUENCA RUBIO, YAIZA",
+    "puntos": 1.9681,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 46
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002570,
+    "dni": "***2837**",
+    "nombre": "ESTEVE RODRIGUEZ, OLGA",
+    "puntos": 1.9602,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 47
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002580,
+    "dni": "***0901**",
+    "nombre": "LEON INFANTE, EDURNE",
+    "puntos": 1.9431,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 48
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002590,
+    "dni": "***0655**",
+    "nombre": "MENENDEZ SUAREZ, PATRICIA",
+    "puntos": 1.9323,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 49
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002600,
+    "dni": "***5168**",
+    "nombre": "LOPEZ DIAZ, EVA MARIA",
+    "puntos": 1.9291,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 50
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002610,
+    "dni": "***0213**",
+    "nombre": "FUSTER MARTINEZ, DIEGO",
+    "puntos": 1.8991,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 51
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002620,
+    "dni": "***9779**",
+    "nombre": "MARIN ORTEGA, CARMEN MARIA",
+    "puntos": 1.8891,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 52
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002630,
+    "dni": "***7689**",
+    "nombre": "CALZADA PEÑA, RODRIGO",
+    "puntos": 1.8751,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 53
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002640,
+    "dni": "***1971**",
+    "nombre": "CIUDAD FERNANDEZ, ANA BELEN",
+    "puntos": 1.8406,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 54
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002650,
+    "dni": "***5492**",
+    "nombre": "GOMARIZ RUIZ, DOLORES",
+    "puntos": 1.8346,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 55
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002660,
+    "dni": "***0273**",
+    "nombre": "NAVARRO GARCIA, SONIA",
+    "puntos": 1.8215,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 56
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002670,
+    "dni": "***1899**",
+    "nombre": "MORENO ABENZA, ELISA MARGARITA",
+    "puntos": 1.7885,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 57
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002680,
+    "dni": "***1867**",
+    "nombre": "LORA CARRASCO, MIGUEL ANGEL",
+    "puntos": 1.788,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 58
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002690,
+    "dni": "***1210**",
+    "nombre": "VERA LEON, LUCIA",
+    "puntos": 1.7827,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 59
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002700,
+    "dni": "***8457**",
+    "nombre": "GARCIA PERALBO, AMELIA JOSE",
+    "puntos": 1.7643,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 60
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002710,
+    "dni": "***1018**",
+    "nombre": "RUIZ MANRESA, MIREIA PILAR",
+    "puntos": 1.7537,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 61
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002720,
+    "dni": "***1568**",
+    "nombre": "SANCHEZ-SOLE GARCIA, MARIA JOSE",
+    "puntos": 1.71,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 62
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002730,
+    "dni": "***1655**",
+    "nombre": "SALAR PALAZON, LORENA",
+    "puntos": 1.7026,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 63
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002740,
+    "dni": "***3121**",
+    "nombre": "MARTINEZ GARCIA, ROSARIO",
+    "puntos": 1.6477,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 64
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002750,
+    "dni": "***9182**",
+    "nombre": "BONILLA VIDAL, ENRIQUE",
+    "puntos": 1.6346,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 65
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002760,
+    "dni": "***6564**",
+    "nombre": "CALVO MARTIN, IRENE",
+    "puntos": 1.6316,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 66
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002770,
+    "dni": "***2715**",
+    "nombre": "MARIN CARRATALA, ELENA",
+    "puntos": 1.5625,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 67
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002780,
+    "dni": "***9317**",
+    "nombre": "LOPEZ QUINTANA, CARMEN",
+    "puntos": 1.5305,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 68
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002790,
+    "dni": "***2663**",
+    "nombre": "LOPEZ GONZALEZ, AHINOA",
+    "puntos": 1.5299,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 69
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002800,
+    "dni": "***0362**",
+    "nombre": "MARTINEZ LOPEZ, JULIA",
+    "puntos": 1.5292,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 70
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002810,
+    "dni": "***4749**",
+    "nombre": "ROSIQUE Y EGEA, MIGUEL",
+    "puntos": 1.5125,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 71
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002820,
+    "dni": "***1823**",
+    "nombre": "DEL TORO BARCHIN, TEODORA",
+    "puntos": 1.4613,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 72
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002830,
+    "dni": "***2104**",
+    "nombre": "RODRIGUEZ GONZALEZ, CARMEN MARIA",
+    "puntos": 1.4558,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 73
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002840,
+    "dni": "***3258**",
+    "nombre": "ORTEGA MUÑOZ, INMACULADA",
+    "puntos": 1.4355,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 74
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002850,
+    "dni": "***1880**",
+    "nombre": "CUADRADO GARCIA, EVA MARIA",
+    "puntos": 1.4244,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 75
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002860,
+    "dni": "***4359**",
+    "nombre": "RUIZ LOPEZ, MIGUEL ANGEL",
+    "puntos": 1.4123,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 76
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002870,
+    "dni": "***4140**",
+    "nombre": "AGUNDEZ MURIEL, CRISTINA",
+    "puntos": 1.4093,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 77
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002880,
+    "dni": "***0094**",
+    "nombre": "LAFUENTE HIDALGO, ALEJANDRO",
+    "puntos": 1.3805,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 78
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002890,
+    "dni": "***3363**",
+    "nombre": "PEREZ PALLARES, MARTA",
+    "puntos": 1.37,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 79
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002900,
+    "dni": "***9487**",
+    "nombre": "AYLLON PASTOR, SEBASTIAN",
+    "puntos": 1.3683,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 80
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002910,
+    "dni": "***3289**",
+    "nombre": "HERNANDEZ CARAVACA, LAURA",
+    "puntos": 1.3448,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 81
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002920,
+    "dni": "***6237**",
+    "nombre": "PUERTAS DE LARA, MARIA DE LA ALMUDENA",
+    "puntos": 1.333,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 82
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002930,
+    "dni": "***1657**",
+    "nombre": "GARCIA TOMAS, MARIA DEL PILAR",
+    "puntos": 1.3277,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 83
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002940,
+    "dni": "***1015**",
+    "nombre": "MARTINEZ ROBLES, ANDREA",
+    "puntos": 1.3078,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 84
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002950,
+    "dni": "***3554**",
+    "nombre": "SABATER INFANTES, MARTA",
+    "puntos": 1.2963,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 85
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002960,
+    "dni": "***7279**",
+    "nombre": "GOMEZ LOPEZ, MANUEL",
+    "puntos": 1.2875,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 86
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002970,
+    "dni": "***5838**",
+    "nombre": "ALCARAZ SANCHEZ, MARTA",
+    "puntos": 1.2845,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 87
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002980,
+    "dni": "***5282**",
+    "nombre": "HERRERA ABELLAN, ANA",
+    "puntos": 1.2823,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 88
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25002990,
+    "dni": "***1933**",
+    "nombre": "MATEOS DEL VAS, ANTONIO",
+    "puntos": 1.2717,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 89
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003000,
+    "dni": "***7219**",
+    "nombre": "MORALES DIAZ, ENCARNACION Mª",
+    "puntos": 1.2689,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 90
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003010,
+    "dni": "***4352**",
+    "nombre": "BASCON CASTELLANO, REBECA",
+    "puntos": 1.249,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 91
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003020,
+    "dni": "***5221**",
+    "nombre": "DIAZ PEREZ, SERGIO ADOLFO",
+    "puntos": 1.2406,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 92
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003030,
+    "dni": "***5638**",
+    "nombre": "MARTINEZ RUBIO, MIRELLA",
+    "puntos": 1.2286,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 93
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003040,
+    "dni": "***1710**",
+    "nombre": "TORRES NAVARRO, CARMEN",
+    "puntos": 1.2218,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 94
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003050,
+    "dni": "***1696**",
+    "nombre": "SANCHEZ TORTOSA, ESMERALDA",
+    "puntos": 1.2038,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 95
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003060,
+    "dni": "***0396**",
+    "nombre": "VALVERDE LUCAS, DAVID",
+    "puntos": 1.1685,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 96
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003070,
+    "dni": "***0426**",
+    "nombre": "FERNANDEZ DEL AMOR, MARIA",
+    "puntos": 1.1422,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 97
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003080,
+    "dni": "***5168**",
+    "nombre": "MARTINEZ MARTINEZ, VICTORIA",
+    "puntos": 1.1153,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 98
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003090,
+    "dni": "***6704**",
+    "nombre": "PASTOR MARTINEZ, ANDREA",
+    "puntos": 1.0968,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 99
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003100,
+    "dni": "***9367**",
+    "nombre": "MELENCHON IBARRA, PATRICIA",
+    "puntos": 1.0954,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 100
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003110,
+    "dni": "***5155**",
+    "nombre": "BELTRAN RUIZ, LAURA",
+    "puntos": 1.0929,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 101
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003120,
+    "dni": "***1833**",
+    "nombre": "PALOMARES ALGUACIL, GEMA",
+    "puntos": 1.0876,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 102
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003130,
+    "dni": "***7294**",
+    "nombre": "LOPEZ BOWE, LUIS CARLOS",
+    "puntos": 1.061,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 103
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003140,
+    "dni": "***1304**",
+    "nombre": "ROCAMORA ROCAMORA, ANA BELEN",
+    "puntos": 1.0523,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 104
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003150,
+    "dni": "***7663**",
+    "nombre": "DE VICENTE SANCHEZ-MIGALLON, MARIA DE LA PAZ",
+    "puntos": 1.0154,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 105
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003160,
+    "dni": "***4897**",
+    "nombre": "LOPEZ ROS, SARA PATRICIA",
+    "puntos": 1.015,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 106
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003170,
+    "dni": "***7999**",
+    "nombre": "SILVA SELVA, ESTEFANIA",
+    "puntos": 1.0075,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 107
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003180,
+    "dni": "***4990**",
+    "nombre": "ALACID CANO, INES MARIA",
+    "puntos": 0.9984,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 108
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003190,
+    "dni": "***6599**",
+    "nombre": "CAMARA DOS SANTOS, VIVIANE CATIELLE",
+    "puntos": 0.9923,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 109
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003200,
+    "dni": "***4112**",
+    "nombre": "NAVARRO SANCHEZ, ANA ISABEL",
+    "puntos": 0.9916,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 110
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003210,
+    "dni": "***7464**",
+    "nombre": "MARTINEZ DOLERA, RUBEN",
+    "puntos": 0.9796,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 111
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003220,
+    "dni": "***9601**",
+    "nombre": "SERRANO ROBLES, ANTONIA",
+    "puntos": 0.9771,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 112
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003230,
+    "dni": "***3671**",
+    "nombre": "PEREZ FERNANDEZ, MARIA ISABEL",
+    "puntos": 0.9633,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 113
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003240,
+    "dni": "***9732**",
+    "nombre": "SAURA SALAS, NURIA",
+    "puntos": 0.9439,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 114
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003250,
+    "dni": "***4844**",
+    "nombre": "MATEO VECINA, MARIA JOSE",
+    "puntos": 0.9255,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 115
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003260,
+    "dni": "***3650**",
+    "nombre": "GOMEZ TOMAS, MARTA",
+    "puntos": 0.9138,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 116
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003270,
+    "dni": "***6957**",
+    "nombre": "MARTINEZ SANCHEZ, ASUNCION MARIA",
+    "puntos": 0.9111,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 117
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003280,
+    "dni": "***3916**",
+    "nombre": "PARRA CARRILLO, ANDREA",
+    "puntos": 0.8941,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 118
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003290,
+    "dni": "***5062**",
+    "nombre": "THOMA RODRIGUEZ, LUNA",
+    "puntos": 0.8873,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 119
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003300,
+    "dni": "***2041**",
+    "nombre": "FERNANDEZ PALAZON, MARIA JOSEFA",
+    "puntos": 0.8845,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 120
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003310,
+    "dni": "***6016**",
+    "nombre": "GUINEA SERRANO, SILVIA MARIA",
+    "puntos": 0.8629,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 121
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003320,
+    "dni": "***8228**",
+    "nombre": "GARCIA SANCHEZ, CARMEN",
+    "puntos": 0.8605,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 122
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003330,
+    "dni": "***8955**",
+    "nombre": "MOLINA CARMONA, LORENA",
+    "puntos": 0.8595,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 123
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003340,
+    "dni": "***1810**",
+    "nombre": "MORENO CAMPUZANO, LORENA",
+    "puntos": 0.8537,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 124
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003350,
+    "dni": "***9260**",
+    "nombre": "FREIXINOS ROS, MARIA DE LOS ANGELES",
+    "puntos": 0.8237,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 125
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003360,
+    "dni": "***5272**",
+    "nombre": "LUNA GOMEZ, ANGELA",
+    "puntos": 0.823,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 126
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003370,
+    "dni": "***1908**",
+    "nombre": "ROSAURO FERNANDEZ, MARIA ROSARIO",
+    "puntos": 0.8226,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 127
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003380,
+    "dni": "***2495**",
+    "nombre": "PEREZ PALMA, ESTRELLA",
+    "puntos": 0.809,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 128
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003390,
+    "dni": "***2607**",
+    "nombre": "MARTINEZ PRADO, ANDREA",
+    "puntos": 0.8087,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 129
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003400,
+    "dni": "***4781**",
+    "nombre": "INGLES PASTOR, PABLO",
+    "puntos": 0.7942,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 130
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003410,
+    "dni": "***7019**",
+    "nombre": "SALAS AZUAR, RUT MARIA",
+    "puntos": 0.7932,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 131
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003420,
+    "dni": "***4917**",
+    "nombre": "CASANOVA ALCAZAR, RUBEN",
+    "puntos": 0.79,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 132
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003430,
+    "dni": "***3632**",
+    "nombre": "NICOLAS FERNANDEZ, SARAY",
+    "puntos": 0.7851,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 133
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003440,
+    "dni": "***8233**",
+    "nombre": "TERRES ROSALES, CARLA",
+    "puntos": 0.7714,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 134
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003450,
+    "dni": "***9935**",
+    "nombre": "MARTINEZ GARCIA, BEATRIZ",
+    "puntos": 0.7646,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 135
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003460,
+    "dni": "***8013**",
+    "nombre": "GARCIA RODRIGUEZ, CARMEN",
+    "puntos": 0.7642,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 136
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003470,
+    "dni": "***6361**",
+    "nombre": "HUNGARO COLMENA, Mª CARMEN",
+    "puntos": 0.7577,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 137
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003480,
+    "dni": "***5397**",
+    "nombre": "SOLANA VILLENA, MIGUEL",
+    "puntos": 0.701,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 138
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003490,
+    "dni": "***1196**",
+    "nombre": "GIMENEZ MOLINA, M PIEDAD",
+    "puntos": 0.7,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 139
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003500,
+    "dni": "***2813**",
+    "nombre": "VIDAL LUCAS, ANTONIO",
+    "puntos": 0.6965,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 140
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003510,
+    "dni": "***3209**",
+    "nombre": "BLAYA DIAZ, ALICIA",
+    "puntos": 0.6928,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 141
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003520,
+    "dni": "***8236**",
+    "nombre": "SANCHEZ ORDIALES, JUAN",
+    "puntos": 0.6912,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 142
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003530,
+    "dni": "***3574**",
+    "nombre": "VILLAESCUSA FERRE, ANA ROSA",
+    "puntos": 0.6869,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 143
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003540,
+    "dni": "***0059**",
+    "nombre": "MARTINEZ CHIRLAQUE, ALICIA",
+    "puntos": 0.6803,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 144
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003550,
+    "dni": "***8116**",
+    "nombre": "BUENO DELGADO, M.TERESA JESUS",
+    "puntos": 0.6801,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 145
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003560,
+    "dni": "***0207**",
+    "nombre": "LOPEZ TORRES, CANDIDA MARIA",
+    "puntos": 0.679,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 146
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003570,
+    "dni": "***9897**",
+    "nombre": "CARRION JIMENEZ, LAURA",
+    "puntos": 0.6754,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 147
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003580,
+    "dni": "***0642**",
+    "nombre": "ACOSTA GARRE, ISABEL",
+    "puntos": 0.6726,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 148
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003590,
+    "dni": "***5643**",
+    "nombre": "JOYA BELTRAN, MARINA",
+    "puntos": 0.669,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 149
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003600,
+    "dni": "***3010**",
+    "nombre": "VILLEGAS SOLER, ALICIA",
+    "puntos": 0.6551,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 150
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003610,
+    "dni": "***5493**",
+    "nombre": "ANDREU MEDIERO, SILVIA",
+    "puntos": 0.6529,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 151
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003620,
+    "dni": "***2310**",
+    "nombre": "NAVARRETE GUILLEN, ROCIO",
+    "puntos": 0.6526,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 152
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003630,
+    "dni": "***6689**",
+    "nombre": "HARO ROMERO, CRISTINA",
+    "puntos": 0.652,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 153
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003640,
+    "dni": "***2733**",
+    "nombre": "LOZANO GARCIA, MARIA DEL CARMEN",
+    "puntos": 0.6416,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 154
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003650,
+    "dni": "***3032**",
+    "nombre": "PASTOR MARIN, MARTA",
+    "puntos": 0.6298,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 155
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003660,
+    "dni": "***7466**",
+    "nombre": "SERRANO JIMENEZ, CRISTINA",
+    "puntos": 0.6207,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 156
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003670,
+    "dni": "***7112**",
+    "nombre": "LLEDO CONESA, MARIO",
+    "puntos": 0.6153,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 157
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003680,
+    "dni": "***4698**",
+    "nombre": "ALCAZAR SANCHEZ, JOSE RUBEN",
+    "puntos": 0.5816,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 158
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003690,
+    "dni": "***4994**",
+    "nombre": "GOMARIZ GALIAN, CARMEN",
+    "puntos": 0.5728,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 159
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003700,
+    "dni": "***3773**",
+    "nombre": "ARRONIZ GOMARIZ, ANA",
+    "puntos": 0.563,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 160
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003710,
+    "dni": "***5529**",
+    "nombre": "CANDEL FERNANDEZ, ALBA",
+    "puntos": 0.553,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 161
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003720,
+    "dni": "***4745**",
+    "nombre": "SANCHEZ TELLO, SANDRA",
+    "puntos": 0.5408,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 162
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003730,
+    "dni": "***2003**",
+    "nombre": "LOPEZ RODRIGUEZ, ADRIAN",
+    "puntos": 0.5338,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 163
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003740,
+    "dni": "***2667**",
+    "nombre": "BRIOSO MARTINEZ, SILVIA",
+    "puntos": 0.5326,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 164
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003750,
+    "dni": "***8472**",
+    "nombre": "SANCHEZ GONZALEZ, CRISTINA ASCENSION",
+    "puntos": 0.511,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 165
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003760,
+    "dni": "***1412**",
+    "nombre": "GUZMAN GONZALEZ, ISABEL",
+    "puntos": 0.4995,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 166
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003770,
+    "dni": "***4036**",
+    "nombre": "SAURA GONZALEZ, CARMEN MARIA",
+    "puntos": 0.4971,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 167
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003780,
+    "dni": "***1135**",
+    "nombre": "MERIDA LEAL, MARIA",
+    "puntos": 0.4701,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 168
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003790,
+    "dni": "***6903**",
+    "nombre": "RUBIO VILLANUEVA, PAULA",
+    "puntos": 0.4658,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 169
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003800,
+    "dni": "***5410**",
+    "nombre": "GUTIERREZ LARIO, MARCO",
+    "puntos": 0.455,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 170
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003810,
+    "dni": "***5887**",
+    "nombre": "BAÑOS PEREZ, IRENE",
+    "puntos": 0.4437,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 171
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003820,
+    "dni": "***6650**",
+    "nombre": "CEBALLOS REYES, ESTHER",
+    "puntos": 0.4428,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 172
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003830,
+    "dni": "***0630**",
+    "nombre": "HERNANDEZ CARPIO, MANUEL",
+    "puntos": 0.4245,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 173
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003840,
+    "dni": "***9978**",
+    "nombre": "RUIZ VIUDEZ, ANTONIO",
+    "puntos": 0.4196,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 174
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003850,
+    "dni": "***2798**",
+    "nombre": "EUSEBIO RODRIGUEZ, JARA MARIA",
+    "puntos": 0.4193,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 175
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003860,
+    "dni": "***4117**",
+    "nombre": "MOLINA CANO, CRISTINA",
+    "puntos": 0.4079,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 176
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003870,
+    "dni": "***8888**",
+    "nombre": "SANCHEZ EGEA, ROCIO",
+    "puntos": 0.3929,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 177
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003880,
+    "dni": "***3677**",
+    "nombre": "MARTIN NAVAS, PALOMA",
+    "puntos": 0.3658,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 178
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003890,
+    "dni": "***4020**",
+    "nombre": "NICOLAS ROBLES, MARIA JESICA",
+    "puntos": 0.3579,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 179
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003900,
+    "dni": "***5664**",
+    "nombre": "GARCIA MARIN, NOEMI",
+    "puntos": 0.3538,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 180
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003910,
+    "dni": "***4995**",
+    "nombre": "BERNAL HERRERO, BELEN",
+    "puntos": 0.3521,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 181
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003920,
+    "dni": "***1546**",
+    "nombre": "MATA SANCHEZ, MANUELA",
+    "puntos": 0.3243,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 182
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003930,
+    "dni": "***3165**",
+    "nombre": "GONZALO GIMENEZ, JUAN JOSE",
+    "puntos": 0.32,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 183
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003940,
+    "dni": "***7917**",
+    "nombre": "PEREZ SERRATO, TANIA MARIA",
+    "puntos": 0.3132,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 184
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003950,
+    "dni": "***1684**",
+    "nombre": "BERNAL PEÑARANDA, JOSE MARIA",
+    "puntos": 0.2991,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 185
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003960,
+    "dni": "***2513**",
+    "nombre": "COBO MARTINEZ, RAQUEL",
+    "puntos": 0.2936,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 186
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003970,
+    "dni": "***1804**",
+    "nombre": "MARTINEZ ORTEGA, M. DOLORES",
+    "puntos": 0.2908,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 187
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003980,
+    "dni": "***7514**",
+    "nombre": "SANCHEZ AZUAR, ISABEL",
+    "puntos": 0.2888,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 188
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25003990,
+    "dni": "***9571**",
+    "nombre": "CORREAS PEREZ, ELOISA",
+    "puntos": 0.2808,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 189
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004000,
+    "dni": "***8834**",
+    "nombre": "LOZANO PEREZ, MARIA JOSE",
+    "puntos": 0.269,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 190
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004010,
+    "dni": "***8708**",
+    "nombre": "CORTIJOS ROMERO, SOFIA",
+    "puntos": 0.2535,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 191
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004020,
+    "dni": "***1344**",
+    "nombre": "IMBERNON JIMENEZ, SUSANA",
+    "puntos": 0.2505,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 192
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004030,
+    "dni": "***3581**",
+    "nombre": "SANCHEZ ORTUÑO, MARTA",
+    "puntos": 0.2435,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 193
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004040,
+    "dni": "***3811**",
+    "nombre": "PINA RUIZ, MARTA",
+    "puntos": 0.2305,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 194
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004050,
+    "dni": "***0658**",
+    "nombre": "LUCAS PEREZ, MANUELA",
+    "puntos": 0.2226,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 195
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004060,
+    "dni": "***7941**",
+    "nombre": "TORTOSA GRACIA, PAULA",
+    "puntos": 0.2095,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 196
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004070,
+    "dni": "***3383**",
+    "nombre": "TOBAL ALBALADEJO, YOLANDA",
+    "puntos": 0.2081,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 197
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004080,
+    "dni": "***9264**",
+    "nombre": "BERNAL BUENDIA, ANA MARIA",
+    "puntos": 0.1997,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 198
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004090,
+    "dni": "***1043**",
+    "nombre": "GARCIA SANCHEZ, JUAN JOSE",
+    "puntos": 0.1981,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 199
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004100,
+    "dni": "***0174**",
+    "nombre": "AVILES PAREDES, MARIA ENRIQUETA",
+    "puntos": 0.1922,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 200
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004110,
+    "dni": "***0955**",
+    "nombre": "LOPEZ ROMERA, MARIA DE LA CRUZ",
+    "puntos": 0.1827,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 201
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004120,
+    "dni": "***2032**",
+    "nombre": "TORRANO SANCHEZ, SERGIO",
+    "puntos": 0.1806,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 202
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004130,
+    "dni": "***5124**",
+    "nombre": "PEREZ GARCIA, FRANCISCA",
+    "puntos": 0.1752,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 203
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004140,
+    "dni": "***1221**",
+    "nombre": "GIMENO LORENTE, MARIA FUENSANTA",
+    "puntos": 0.1748,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 204
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004150,
+    "dni": "***7011**",
+    "nombre": "ALONSO CLEMENTE, ANA ISABEL",
+    "puntos": 0.1686,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 205
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004160,
+    "dni": "***6637**",
+    "nombre": "CARPENA ORTEGA, BEATRIZ",
+    "puntos": 0.1678,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 206
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004170,
+    "dni": "***2198**",
+    "nombre": "GUILLAMON MONTORO, VERONICA",
+    "puntos": 0.1651,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 207
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004180,
+    "dni": "***1228**",
+    "nombre": "GARCIA MONTIEL, MARINA",
+    "puntos": 0.1633,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 208
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004190,
+    "dni": "***4526**",
+    "nombre": "ORTIZ RUIZ, EVA MARIA",
+    "puntos": 0.1625,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 209
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004200,
+    "dni": "***3127**",
+    "nombre": "RISUEÑO MUÑOZ, MARIA JOSEFA",
+    "puntos": 0.1572,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 210
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004210,
+    "dni": "***9074**",
+    "nombre": "RODRIGUEZ DE VERA MOULIAA, MIGUEL",
+    "puntos": 0.1548,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 211
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004220,
+    "dni": "***2681**",
+    "nombre": "MUÑOZ GOMEZ, JUANA MARIA",
+    "puntos": 0.1527,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 212
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004230,
+    "dni": "***4768**",
+    "nombre": "BELANDO MARTINEZ, SANDRA DE LA FUENSANTA",
+    "puntos": 0.1463,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 213
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004240,
+    "dni": "***7949**",
+    "nombre": "BAUTISTA MARTINEZ, BELEN",
+    "puntos": 0.1432,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 214
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004250,
+    "dni": "***7106**",
+    "nombre": "FERNANDEZ GARCIA, ANGELES",
+    "puntos": 0.137,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 215
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004260,
+    "dni": "***5547**",
+    "nombre": "RUIZ MARTINEZ, MARIA",
+    "puntos": 0.133,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 216
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004270,
+    "dni": "***4087**",
+    "nombre": "SANCHEZ VIZCAINO, ANA ESTHER",
+    "puntos": 0.1243,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 217
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004280,
+    "dni": "***9346**",
+    "nombre": "TORRANO INIESTA, MARIA DEL MAR",
+    "puntos": 0.1214,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 218
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004290,
+    "dni": "***5680**",
+    "nombre": "GRAO CARTAGENA, LAURA",
+    "puntos": 0.1153,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 219
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004300,
+    "dni": "***6513**",
+    "nombre": "JIMENEZ CASTELLANOS, ENCARNACION",
+    "puntos": 0.1152,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 220
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004310,
+    "dni": "***2138**",
+    "nombre": "BRAVO MICOL, CYNTHIA",
+    "puntos": 0.1077,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 221
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004320,
+    "dni": "***2474**",
+    "nombre": "MARTINEZ LIRIA, LUCIA",
+    "puntos": 0.1031,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 222
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004330,
+    "dni": "***8264**",
+    "nombre": "VIDAL DIMAS, NELIA",
+    "puntos": 0.1,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 223
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004340,
+    "dni": "***0483**",
+    "nombre": "GARCIA PEREZ, MARIA TERESA",
+    "puntos": 0.0985,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 224
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004350,
+    "dni": "***1033**",
+    "nombre": "HERNANDEZ LORCA, FRANCISCO JAVIER",
+    "puntos": 0.0941,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 225
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004360,
+    "dni": "***3519**",
+    "nombre": "TABARES GAVIRIA, ALEJANDRA",
+    "puntos": 0.0906,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 226
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004370,
+    "dni": "***1480**",
+    "nombre": "RIVAS MOLINA, ANA",
+    "puntos": 0.0792,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 227
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004380,
+    "dni": "***5496**",
+    "nombre": "SOTO CATALAN, ALBERTO",
+    "puntos": 0.0765,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 228
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004390,
+    "dni": "***0904**",
+    "nombre": "MARTINEZ DE HARO, ANGEL FRANCISCO",
+    "puntos": 0.0758,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 229
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004400,
+    "dni": "***5606**",
+    "nombre": "RE RUIZ, MANUEL MARCIAL",
+    "puntos": 0.0735,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 230
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004410,
+    "dni": "***5988**",
+    "nombre": "GENOVES GARCIA, INMACULADA",
+    "puntos": 0.0706,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 231
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004420,
+    "dni": "***7791**",
+    "nombre": "SANCHEZ MARTINEZ, RESU",
+    "puntos": 0.0601,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 232
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004430,
+    "dni": "***5830**",
+    "nombre": "ESPAÑA CAMPUZANO, AINARA MARIA",
+    "puntos": 0.0547,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 233
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004440,
+    "dni": "***6517**",
+    "nombre": "SANCHEZ MARTINEZ, CECILIO",
+    "puntos": 0.0518,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 234
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004450,
+    "dni": "***1386**",
+    "nombre": "MOLDON ROCAMORA, PILAR",
+    "puntos": 0.05,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 235
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004460,
+    "dni": "***1999**",
+    "nombre": "LOPEZ PLASENCIA, MARIA JOSE",
+    "puntos": 0.0458,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 236
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004470,
+    "dni": "***4228**",
+    "nombre": "GARCIA ALBARRACIN, MARAVILLAS",
+    "puntos": 0.0385,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 237
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004480,
+    "dni": "***6595**",
+    "nombre": "GARCIA PAREDES, MIRIAM",
+    "puntos": 0.027,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 238
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004490,
+    "dni": "***3329**",
+    "nombre": "MARTINEZ BLAYA, LUISA MARIA",
+    "puntos": 0.015,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 239
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004500,
+    "dni": "***1301**",
+    "nombre": "NAVARRO MATEOS, VICTOR JOSE",
+    "puntos": 0.014,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 240
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004510,
+    "dni": "***6037**",
+    "nombre": "MARTINEZ PIERNAS, ANA",
+    "puntos": 0.0125,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 241
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004520,
+    "dni": "***0245**",
+    "nombre": "BARCELONA RUIZ, CRISTINA",
+    "puntos": 0.0068,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 242
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004530,
+    "dni": "***3824**",
+    "nombre": "GARCIA GARCIA-VILLALBA, MARIA DOLORES",
+    "puntos": 0.0022,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 243
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004540,
+    "dni": "***5522**",
+    "nombre": "ALVARO HERVAS, LARA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 244
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004550,
+    "dni": "***9995**",
+    "nombre": "CABALLERO CLEMENTE, ROSA MARIA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 245
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004560,
+    "dni": "***5097**",
+    "nombre": "FERNANDEZ AGUILAR, SARA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 246
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004570,
+    "dni": "***8605**",
+    "nombre": "GARRIGOS SERNA, JUAN FRANCISCO",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 247
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004580,
+    "dni": "***7154**",
+    "nombre": "ILLAN FERNANDEZ, MARIA JOSE",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 248
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004590,
+    "dni": "***9252**",
+    "nombre": "MARTINEZ RUIZ, NOELIA MARIA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 249
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004600,
+    "dni": "***2003**",
+    "nombre": "MORENO RIOS, AGUEDA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 250
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004610,
+    "dni": "***1076**",
+    "nombre": "PEREZ CRESPO CANO, MARIA JOSE",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 251
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004620,
+    "dni": "***2430**",
+    "nombre": "PERUJO FEO, MARIA AUXILIADORA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 252
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004630,
+    "dni": "***4467**",
+    "nombre": "ROS GARCIA, MARIA JOSE",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 253
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004640,
+    "dni": "***7339**",
+    "nombre": "SANCHEZ ABELLAN, MARIA FRANCISCA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 254
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004650,
+    "dni": "***2737**",
+    "nombre": "SANCHEZ SELLER, CARMEN",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 255
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004660,
+    "dni": "***5939**",
+    "nombre": "TEVAR MEDINA, ELENA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 256
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004760,
+    "dni": "***1946**",
+    "nombre": "MARTINEZ TOVAR, MARIA DOLORES",
+    "puntos": 1.1,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 257
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004770,
+    "dni": "***7549**",
+    "nombre": "DIAZ SERRANO, ISABEL MARIA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 258
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004780,
+    "dni": "***2793**",
+    "nombre": "IBAÑEZ CANTERO, MARIA ISIDRA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 259
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004790,
+    "dni": "***6680**",
+    "nombre": "ORTUÑO RODENAS, BEATRIZ",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 260
+  },
+  {
+    "bloque": 2,
+    "numero_lista": 25004800,
+    "dni": "***4273**",
+    "nombre": "PEÑALVER RODRIGUEZ, ENCARNA",
+    "puntos": 0.0,
+    "estado": "Disponible",
+    "ultima_actualizacion": "2026-07-22",
+    "posicion_bloque": 261
+  }
+]
